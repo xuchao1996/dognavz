@@ -1,0 +1,11 @@
+name = "dognavz"
+main = "cloudflare/src/index.js"
+compatibility_date = "2025-06-25"
+
+[assets]
+directory = "./cloudflare/public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dognav"
+database_id = "93ea98a0-47ed-45b9-9886-423642866408"
